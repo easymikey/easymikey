@@ -1,0 +1,72 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/easymikey/lxc-tool/commit/a1d6ed3307d0e5d22a7d7bbf5dd2ffeeec3d346d\"><strong>a</strong>1d6ed3307d0e5d22a7d7bbf5dd2ffeeec3d346d</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/easymikey/easymikey/commit/1b9763e475f7f6376b7662b4dc5cc36ffc7a2c27\">1b9763e</a>: chore: init repo",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"fix:\".",
+    "body": "My favorite commit message words are:\n\n1. fix: (used 17 times)\n2. build: (used 12 times)\n3. bump (used 12 times)\n4. version (used 12 times)\n5. add (used 10 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/easymikey/vite/commit/b3f5bd17e20aeb3a8072ca8a7ce2d5d40e1f80ff\">b3f5bd1</a>: fix(css): handle lightningcss minification in Deno (#17372)\n- <a href=\"https://github.com/easymikey/vite/commit/8e4e932b4979bc40a03b0ffb65b960df62226def\">8e4e932</a>: fix(css): handle lightningcss compiled css in Deno (#17301)\n\nCo-authored-by: Михаил Авдеев <mikhail.avdeev@vk.team>",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "oss-library-night-24",
+    "tier": 0,
+    "desc": "I've participated in the <a href=\"https://events.yandex.ru/events/opensourcenight\">Opensource Library Night 24</a>!",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/google/zx/pull/989\">#989</a>\n- <a href=\"https://github.com/google/zx/pull/994\">#994</a>\n- <a href=\"https://github.com/google/zx/pull/1005\">#1005</a>",
+    "image": "https://my-badges.github.io/my-badges/oss-library-night-24.png"
+  },
+  {
+    "id": "public-keys-1",
+    "tier": 1,
+    "desc": "I have one public key",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/volta-cli/volta/issues/1973\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/easymikey/zx/commit/fb436fa6a9caac6aaad13cf02212c43c9a20170e\">fb436fa</a>\n- <a href=\"https://github.com/easymikey/zx/commit/61c0ed1012b0568d21e971d1ea9cfddebcaa669d\">61c0ed1</a>\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/21dd6bc1726d5a809bb71d05227e2f812cff1a64\">21dd6bc</a>\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/a1d6ed3307d0e5d22a7d7bbf5dd2ffeeec3d346d\">a1d6ed3</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  }
+]
