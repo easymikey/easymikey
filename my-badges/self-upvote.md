@@ -3,6 +3,7 @@
 <br><br>
 
 * <a href="https://github.com/volta-cli/volta/issues/1973">👍</a>
+* <a href="https://github.com/volta-cli/volta/pull/1974">👍</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
