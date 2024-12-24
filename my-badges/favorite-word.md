@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. fix: (used 17 times)
-2. build: (used 12 times)
-3. bump (used 12 times)
-4. version (used 12 times)
-5. add (used 10 times)
+2. version (used 15 times)
+3. build: (used 13 times)
+4. add (used 12 times)
+5. bump (used 12 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
