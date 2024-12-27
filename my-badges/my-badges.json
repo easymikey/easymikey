@@ -24,7 +24,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 27 times)\n2. fix: (used 25 times)\n3. chore: (used 19 times)\n4. add (used 19 times)\n5. feat: (used 15 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 29 times)\n2. chore: (used 25 times)\n3. fix: (used 25 times)\n4. add (used 19 times)\n5. feat: (used 18 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
