@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/oss-library-night-24.png" alt="I&apos;ve participated in the &lt;a href=&quot;https://events.yandex.ru/events/opensourcenight&quot;&gt;Opensource Library Night 24&lt;/a&gt;!" title="I&apos;ve participated in the &lt;a href=&quot;https://events.yandex.ru/events/opensourcenight&quot;&gt;Opensource Library Night 24&lt;/a&gt;!" width="128">
-<strong>I&apos;ve participated in the &lt;a href=&quot;https://events.yandex.ru/events/opensourcenight&quot;&gt;Opensource Library Night 24&lt;/a&gt;!</strong>
+<img src="https://my-badges.github.io/my-badges/oss-library-night-24.png" alt="I&apos;ve participated in the Opensource Library Night 24!" title="I&apos;ve participated in the Opensource Library Night 24!" width="128">
+<strong>I&apos;ve participated in the Opensource Library Night 24!</strong>
 <br><br>
 
 Pull requests:
