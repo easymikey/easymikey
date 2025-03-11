@@ -11,4 +11,5 @@
 <a href="my-badges/evening-commits.md"><img src="https://my-badges.github.io/my-badges/evening-commits.png" alt="I commit in the evening." title="I commit in the evening." width="64"></a>
 <a href="my-badges/pr-collaboration-5.md"><img src="https://my-badges.github.io/my-badges/pr-collaboration-5.png" alt="I have participated in pull requests with 5 or more people" title="I have participated in pull requests with 5 or more people" width="64"></a>
 <a href="my-badges/my-badges-contributor.md"><img src="https://my-badges.github.io/my-badges/my-badges-contributor.png" alt="I contributed to My Badges!" title="I contributed to My Badges!" width="64"></a>
+<a href="my-badges/thumbs-up-10.md"><img src="https://my-badges.github.io/my-badges/thumbs-up-10.png" alt="I got more than 10 thumbs up." title="I got more than 10 thumbs up." width="64"></a>
 <!-- my-badges end -->

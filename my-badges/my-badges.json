@@ -82,5 +82,12 @@
     "desc": "I contributed to My Badges!",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/my-badges/my-badges/pull/109\">#109</a>",
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/volta-cli/volta/issues/1973\">11 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   }
 ]
