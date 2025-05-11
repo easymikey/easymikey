@@ -7,13 +7,6 @@
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/easymikey/easymikey/commit/1b9763e475f7f6376b7662b4dc5cc36ffc7a2c27\">1b9763e</a>: chore: init repo",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
     "id": "covid-19",
     "tier": 0,
     "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
