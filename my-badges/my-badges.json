@@ -42,13 +42,6 @@
     "image": "https://my-badges.github.io/my-badges/oss-library-night-24.png"
   },
   {
-    "id": "public-keys-1",
-    "tier": 1,
-    "desc": "I have one public key",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-1.png"
-  },
-  {
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
@@ -82,5 +75,12 @@
     "desc": "I got more than 10 thumbs up.",
     "body": "* <a href=\"https://github.com/volta-cli/volta/issues/1973\">11 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
   }
 ]
