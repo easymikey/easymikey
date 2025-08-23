@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/my-badges/my-badges/pull/109">#109</a>
+- <a href="https://github.com/my-badges/my-badges/pull/109">#109</a>: style: remove broken links from header
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
