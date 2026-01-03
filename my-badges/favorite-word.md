@@ -1,14 +1,14 @@
-<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;add&quot;." title="My favorite word is &quot;add&quot;." width="128">
-<strong>My favorite word is &quot;add&quot;.</strong>
+<img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;update&quot;." title="My favorite word is &quot;update&quot;." width="128">
+<strong>My favorite word is &quot;update&quot;.</strong>
 <br><br>
 
 My favorite commit message words are:
 
-1. add (used 48 times)
-2. update (used 46 times)
-3. chore: (used 32 times)
-4. fix: (used 20 times)
-5. version (used 17 times)
+1. update (used 52 times)
+2. add (used 48 times)
+3. chore: (used 36 times)
+4. fix: (used 26 times)
+5. feat: (used 18 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
