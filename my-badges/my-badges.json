@@ -86,7 +86,7 @@
   {
     "id": "may-the-4th",
     "tier": 0,
-    "desc": "May the 4th be with you! Commits of force:",
+    "desc": "May the 4th be with you!",
     "body": "Commits:\n\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/96d3ddb25e4a49f0ed1323c6b5bb6ff5ebdf07ed\">96d3ddb</a>\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/ca5a3eae38f2e023640939718cd2b419a2b5969c\">ca5a3ea</a>",
     "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
   }
