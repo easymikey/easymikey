@@ -17,7 +17,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"update\".",
-    "body": "My favorite commit message words are:\n\n1. update (used 54 times)\n2. add (used 51 times)\n3. chore: (used 38 times)\n4. fix: (used 28 times)\n5. feat: (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. update (used 58 times)\n2. add (used 55 times)\n3. chore: (used 38 times)\n4. fix: (used 36 times)\n5. feat: (used 26 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/easymikey/zx/commit/fb436fa6a9caac6aaad13cf02212c43c9a20170e\">fb436fa</a>\n- <a href=\"https://github.com/easymikey/zx/commit/61c0ed1012b0568d21e971d1ea9cfddebcaa669d\">61c0ed1</a>\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/21dd6bc1726d5a809bb71d05227e2f812cff1a64\">21dd6bc</a>\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/a1d6ed3307d0e5d22a7d7bbf5dd2ffeeec3d346d\">a1d6ed3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/easymikey/conf/commit/11656f6ba3ec2acaec928203cce996de2abc142b\">11656f6</a>\n- <a href=\"https://github.com/easymikey/raycast-extensions/commit/13e5deb9d0ce8ffd56ad446c4e92e76aa879ff22\">13e5deb</a>\n- <a href=\"https://github.com/easymikey/zx/commit/fb436fa6a9caac6aaad13cf02212c43c9a20170e\">fb436fa</a>\n- <a href=\"https://github.com/easymikey/zx/commit/61c0ed1012b0568d21e971d1ea9cfddebcaa669d\">61c0ed1</a>\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/21dd6bc1726d5a809bb71d05227e2f812cff1a64\">21dd6bc</a>\n- <a href=\"https://github.com/easymikey/lxc-tool/commit/a1d6ed3307d0e5d22a7d7bbf5dd2ffeeec3d346d\">a1d6ed3</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
